@@ -10,4 +10,5 @@ hello,kplusone!
 hello,kplusone!
 hello,kplusone!22222
 这行字是在远程仓库git-demo里写的！
-验证SSH链接
+验证SSH链接pull
+验证SSH链接push
